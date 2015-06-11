@@ -1,0 +1,274 @@
+
+[Ferr2DT_TerrainMaterial]
+assets/elementals/prefabs/Fire/Fire_03.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Wave.prefab
+assets/elementals/prefabs/Ice/Heavy Snowfall.prefab
+assets/elementals/prefabs/Wind/Cyclone.prefab
+assets/ferr/2dterrain/TerrainMaterials/RockTerrainMaterial.prefab
+assets/elementals/Prefabs (Mobile)/Darkness/Dark Mist.prefab
+assets/elementals/prefabs/Fire/Magma Burst.prefab
+assets/elementals/prefabs/Thunder/Lightning.prefab
+assets/2d art pack/art/colission/platform_small2.prefab
+assets/elementals/prefabs/Fire/Lava.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/ui_healthDisplay.prefab
+assets/elementals/prefabs/Water/Rain Storm.prefab
+assets/elementals/Prefabs (Mobile)/Thunder/Lightning.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/hero.prefab
+assets/elementals/Prefabs (Mobile)/Thunder/Lightning Strike.prefab
+assets/elementals/prefabs/Fire/Fire Spray.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Eternal Flame.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Meteor Storm.prefab
+assets/2d art pack/art/colission/platform1_middle.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Firewall.prefab
+assets/elementals/Prefabs (Mobile)/Earth/Mud.prefab
+assets/elementals/prefabs/Water/Stream.prefab
+assets/elementals/prefabs/Fire/Fire Splinters.prefab
+assets/elementals/prefabs/Fire/Fire_02.prefab
+assets/elementals/prefabs/Ice/Snowstorm.prefab
+assets/2d art pack/art/colission/platform_small1.prefab
+assets/2d art pack/art/colission/branchc4_snow.prefab
+assets/elementals/Prefabs (Mobile)/Ice/Snowfall.prefab
+assets/ferr/2dterrain/TerrainMaterials/ForestTerrainMaterial.prefab
+assets/elementals/prefabs/Wind/Fog Flow.prefab
+assets/elementals/Prefabs (Mobile)/Thunder/Lightning Spark.prefab
+assets/elementals/prefabs/Fire/Fire_01.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Spray.prefab
+assets/elementals/prefabs/Thunder/Lightning Spark.prefab
+assets/elementals/prefabs/Fire/Flame Enchant.prefab
+assets/elementals/prefabs/Earth/Spurt.prefab
+assets/elementals/Prefabs (Mobile)/Water/Spray.prefab
+assets/elementals/Prefabs (Mobile)/Wind/Cyclone.prefab
+assets/elementals/prefabs/Fire/Landmine.prefab
+assets/ferr/2dterrain/TerrainMaterials/MossyTerrainMaterial.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/hero_light.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire_03.prefab
+assets/2d art pack/art/colission/platform1_right_snow.prefab
+assets/elementals/prefabs/Fire/Meteor Storm.prefab
+assets/elementals/prefabs/Earth/Mudslide.prefab
+assets/elementals/prefabs/Fire/Fire Wave.prefab
+assets/elementals/prefabs/Fire/Explosion.prefab
+assets/ferr/2dterrain/examples/assets/GooPlayer.prefab
+assets/elementals/Prefabs (Mobile)/Light/Holy Shine.prefab
+assets/elementals/prefabs/Water/Spray.prefab
+assets/elementals/prefabs/Fire/Fire Burst.prefab
+assets/2d art pack/art/colission/branchc3_snow.prefab
+assets/elementals/prefabs/Fire/Burning Ground.prefab
+assets/elementals/prefabs/Fire/Fire Mist.prefab
+assets/elementals/prefabs/Fire/Fire Cloud.prefab
+assets/elementals/prefabs/Fire/Fire Stream.prefab
+assets/elementals/prefabs/Ice/Ice Floor.prefab
+assets/elementals/prefabs/Darkness/Dark Fog.prefab
+assets/elementals/prefabs/Thunder/Lightning Field.prefab
+assets/2d art pack/art/Particles/Particle Snow.prefab
+assets/ferr/2dterrain/TerrainMaterials/PipeMaterial.prefab
+assets/2d art pack/art/colission/branchc1.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Lava.prefab
+assets/2d art pack/art/colission/platform1_right.prefab
+assets/elementals/Prefabs (Mobile)/Water/Water.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Mist.prefab
+assets/elementals/prefabs/Thunder/Thunder.prefab
+assets/ferr/2dterrain/TerrainMaterials/CaveTerrainMaterial.prefab
+assets/2d art pack/art/colission/platform_small1_snow.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Big Bang.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Cloud.prefab
+assets/elementals/Prefabs (Mobile)/Ice/Heavy Snowfall.prefab
+assets/elementals/Prefabs (Mobile)/Light/Eternal Light.prefab
+assets/2d art pack/art/colission/bridge_snow.prefab
+assets/elementals/prefabs/Water/Rain.prefab
+assets/elementals/prefabs/Light/Eternal Light.prefab
+assets/2d art pack/art/colission/branchc1_snow.prefab
+assets/elementals/prefabs/Fire/Boom.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/splash.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/killTrigger.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Stream.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Explosion.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Splinters.prefab
+assets/elementals/prefabs/Earth/Mud.prefab
+assets/elementals/Prefabs (Mobile)/Light/Life Stream.prefab
+assets/2d art pack/art/colission/platform1_middle_snow.prefab
+assets/elementals/Prefabs (Mobile)/Thunder/Thunder.prefab
+assets/2d art pack/art/colission/branchc3.prefab
+assets/2d art pack/art/colission/platform_small2_snow.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Magma Burst.prefab
+assets/elementals/prefabs/Darkness/Dark Mist.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire_02.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire_01.prefab
+assets/ferr/2dterrain/TerrainMaterials/ForegroundTerrainMaterial.prefab
+assets/elementals/prefabs/Ice/Snowfall.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/Pauser.prefab
+assets/elementals/prefabs/Fire/Fireball.prefab
+assets/2d art pack/art/colission/platform1_left.prefab
+assets/elementals/prefabs/Fire/Fire Fog.prefab
+assets/elementals/Prefabs (Mobile)/Water/Rain Storm.prefab
+assets/elementals/prefabs/Fire/Firewall.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fireball.prefab
+assets/elementals/Prefabs (Mobile)/Water/Stream.prefab
+assets/elementals/Prefabs (Mobile)/Earth/Spurt.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Boom.prefab
+assets/elementals/Prefabs (Mobile)/Light/Holy Blast.prefab
+assets/elementals/prefabs/Light/Holy Blast.prefab
+assets/ferr/2dterrain/examples/assets/FerrlibLogoSmall.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Burning Ground.prefab
+assets/elementals/Prefabs (Mobile)/Thunder/Lightning Field.prefab
+assets/elementals/Prefabs (Mobile)/Ice/Ice Floor.prefab
+assets/elementals/prefabs/Water/Water.prefab
+assets/elementals/Prefabs (Mobile)/Water/Rain.prefab
+assets/elementals/Prefabs (Mobile)/Darkness/Dark Fog.prefab
+assets/2d art pack/art/colission/bridge.prefab
+assets/elementals/prefabs/Fire/Eternal Flame.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Fog.prefab
+assets/2d art pack/art/colission/branchc2.prefab
+assets/elementals/Prefabs (Mobile)/Earth/Mudslide.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Landmine.prefab
+assets/NewTerrainMaterial.prefab
+assets/ferr/2dterrain/examples/assets/Tumbleweed.prefab
+assets/2d art pack/art/colission/branchc5_snow.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Burst.prefab
+assets/elementals/prefabs/Thunder/Lightning Strike.prefab
+assets/elementals/prefabs/Fire/Big Bang.prefab
+assets/2d art pack/art/colission/platform1_left_snow.prefab
+assets/ferr/2dterrain/TerrainMaterials/SandTerrainMaterial.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Flame Enchant.prefab
+assets/2d art pack/art/colission/branchc2_snow.prefab
+assets/elementals/prefabs/Light/Life Stream.prefab
+assets/elementals/Prefabs (Mobile)/Ice/Snowstorm.prefab
+assets/elementals/Prefabs (Mobile)/Wind/Fog Flow.prefab
+assets/elementals/prefabs/Light/Holy Shine.prefab
+assets/logos.prefab
+
+[Ferr2DT_PathTerrain]
+assets/elementals/prefabs/Fire/Fire_03.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Wave.prefab
+assets/elementals/prefabs/Ice/Heavy Snowfall.prefab
+assets/elementals/prefabs/Wind/Cyclone.prefab
+assets/ferr/2dterrain/TerrainMaterials/RockTerrainMaterial.prefab
+assets/elementals/Prefabs (Mobile)/Darkness/Dark Mist.prefab
+assets/elementals/prefabs/Fire/Magma Burst.prefab
+assets/elementals/prefabs/Thunder/Lightning.prefab
+assets/2d art pack/art/colission/platform_small2.prefab
+assets/elementals/prefabs/Fire/Lava.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/ui_healthDisplay.prefab
+assets/elementals/prefabs/Water/Rain Storm.prefab
+assets/elementals/Prefabs (Mobile)/Thunder/Lightning.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/hero.prefab
+assets/elementals/Prefabs (Mobile)/Thunder/Lightning Strike.prefab
+assets/elementals/prefabs/Fire/Fire Spray.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Eternal Flame.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Meteor Storm.prefab
+assets/2d art pack/art/colission/platform1_middle.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Firewall.prefab
+assets/elementals/Prefabs (Mobile)/Earth/Mud.prefab
+assets/elementals/prefabs/Water/Stream.prefab
+assets/elementals/prefabs/Fire/Fire Splinters.prefab
+assets/elementals/prefabs/Fire/Fire_02.prefab
+assets/elementals/prefabs/Ice/Snowstorm.prefab
+assets/2d art pack/art/colission/platform_small1.prefab
+assets/2d art pack/art/colission/branchc4_snow.prefab
+assets/elementals/Prefabs (Mobile)/Ice/Snowfall.prefab
+assets/ferr/2dterrain/TerrainMaterials/ForestTerrainMaterial.prefab
+assets/elementals/prefabs/Wind/Fog Flow.prefab
+assets/elementals/Prefabs (Mobile)/Thunder/Lightning Spark.prefab
+assets/elementals/prefabs/Fire/Fire_01.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Spray.prefab
+assets/elementals/prefabs/Thunder/Lightning Spark.prefab
+assets/elementals/prefabs/Fire/Flame Enchant.prefab
+assets/elementals/prefabs/Earth/Spurt.prefab
+assets/elementals/Prefabs (Mobile)/Water/Spray.prefab
+assets/elementals/Prefabs (Mobile)/Wind/Cyclone.prefab
+assets/elementals/prefabs/Fire/Landmine.prefab
+assets/ferr/2dterrain/TerrainMaterials/MossyTerrainMaterial.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/hero_light.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire_03.prefab
+assets/2d art pack/art/colission/platform1_right_snow.prefab
+assets/elementals/prefabs/Fire/Meteor Storm.prefab
+assets/elementals/prefabs/Earth/Mudslide.prefab
+assets/elementals/prefabs/Fire/Fire Wave.prefab
+assets/elementals/prefabs/Fire/Explosion.prefab
+assets/ferr/2dterrain/examples/assets/GooPlayer.prefab
+assets/elementals/Prefabs (Mobile)/Light/Holy Shine.prefab
+assets/elementals/prefabs/Water/Spray.prefab
+assets/elementals/prefabs/Fire/Fire Burst.prefab
+assets/2d art pack/art/colission/branchc3_snow.prefab
+assets/elementals/prefabs/Fire/Burning Ground.prefab
+assets/elementals/prefabs/Fire/Fire Mist.prefab
+assets/elementals/prefabs/Fire/Fire Cloud.prefab
+assets/elementals/prefabs/Fire/Fire Stream.prefab
+assets/elementals/prefabs/Ice/Ice Floor.prefab
+assets/elementals/prefabs/Darkness/Dark Fog.prefab
+assets/elementals/prefabs/Thunder/Lightning Field.prefab
+assets/2d art pack/art/Particles/Particle Snow.prefab
+assets/ferr/2dterrain/TerrainMaterials/PipeMaterial.prefab
+assets/2d art pack/art/colission/branchc1.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Lava.prefab
+assets/2d art pack/art/colission/platform1_right.prefab
+assets/elementals/Prefabs (Mobile)/Water/Water.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Mist.prefab
+assets/elementals/prefabs/Thunder/Thunder.prefab
+assets/ferr/2dterrain/TerrainMaterials/CaveTerrainMaterial.prefab
+assets/2d art pack/art/colission/platform_small1_snow.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Big Bang.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Cloud.prefab
+assets/elementals/Prefabs (Mobile)/Ice/Heavy Snowfall.prefab
+assets/elementals/Prefabs (Mobile)/Light/Eternal Light.prefab
+assets/2d art pack/art/colission/bridge_snow.prefab
+assets/elementals/prefabs/Water/Rain.prefab
+assets/elementals/prefabs/Light/Eternal Light.prefab
+assets/2d art pack/art/colission/branchc1_snow.prefab
+assets/elementals/prefabs/Fire/Boom.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/splash.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/killTrigger.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Stream.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Explosion.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Splinters.prefab
+assets/elementals/prefabs/Earth/Mud.prefab
+assets/elementals/Prefabs (Mobile)/Light/Life Stream.prefab
+assets/2d art pack/art/colission/platform1_middle_snow.prefab
+assets/elementals/Prefabs (Mobile)/Thunder/Thunder.prefab
+assets/2d art pack/art/colission/branchc3.prefab
+assets/2d art pack/art/colission/platform_small2_snow.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Magma Burst.prefab
+assets/elementals/prefabs/Darkness/Dark Mist.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire_02.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire_01.prefab
+assets/ferr/2dterrain/TerrainMaterials/ForegroundTerrainMaterial.prefab
+assets/elementals/prefabs/Ice/Snowfall.prefab
+assets/2d art pack/unity 2d project assets/Prefabs/Pauser.prefab
+assets/elementals/prefabs/Fire/Fireball.prefab
+assets/2d art pack/art/colission/platform1_left.prefab
+assets/elementals/prefabs/Fire/Fire Fog.prefab
+assets/elementals/Prefabs (Mobile)/Water/Rain Storm.prefab
+assets/elementals/prefabs/Fire/Firewall.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fireball.prefab
+assets/elementals/Prefabs (Mobile)/Water/Stream.prefab
+assets/elementals/Prefabs (Mobile)/Earth/Spurt.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Boom.prefab
+assets/elementals/Prefabs (Mobile)/Light/Holy Blast.prefab
+assets/elementals/prefabs/Light/Holy Blast.prefab
+assets/ferr/2dterrain/examples/assets/FerrlibLogoSmall.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Burning Ground.prefab
+assets/elementals/Prefabs (Mobile)/Thunder/Lightning Field.prefab
+assets/elementals/Prefabs (Mobile)/Ice/Ice Floor.prefab
+assets/elementals/prefabs/Water/Water.prefab
+assets/elementals/Prefabs (Mobile)/Water/Rain.prefab
+assets/elementals/Prefabs (Mobile)/Darkness/Dark Fog.prefab
+assets/2d art pack/art/colission/bridge.prefab
+assets/elementals/prefabs/Fire/Eternal Flame.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Fog.prefab
+assets/2d art pack/art/colission/branchc2.prefab
+assets/elementals/Prefabs (Mobile)/Earth/Mudslide.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Landmine.prefab
+assets/NewTerrainMaterial.prefab
+assets/ferr/2dterrain/examples/assets/Tumbleweed.prefab
+assets/2d art pack/art/colission/branchc5_snow.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Fire Burst.prefab
+assets/elementals/prefabs/Thunder/Lightning Strike.prefab
+assets/elementals/prefabs/Fire/Big Bang.prefab
+assets/2d art pack/art/colission/platform1_left_snow.prefab
+assets/ferr/2dterrain/TerrainMaterials/SandTerrainMaterial.prefab
+assets/elementals/Prefabs (Mobile)/Fire/Flame Enchant.prefab
+assets/2d art pack/art/colission/branchc2_snow.prefab
+assets/elementals/prefabs/Light/Life Stream.prefab
+assets/elementals/Prefabs (Mobile)/Ice/Snowstorm.prefab
+assets/elementals/Prefabs (Mobile)/Wind/Fog Flow.prefab
+assets/elementals/prefabs/Light/Holy Shine.prefab
+assets/logos.prefab
